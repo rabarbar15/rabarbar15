@@ -6,8 +6,8 @@
 ## 💻 Some of my code    
 |**Project**|**Description**|    
 |:----------|:----|
+| 📕 [Bookstore app](https://github.com/rabarbar15/books.com) | E-commerce website made with React and Express. |
 | 🗓️ [Items booking app](https://github.com/rabarbar15/items-booking-app) | Booking app made with Express and React Js. | 
-| 📕 [Bookstore app](https://github.com/rabarbar15/bookstore-app) | Virtual bookstore made with React Js. Work in progress. |
 
 
 
