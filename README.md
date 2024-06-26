@@ -7,7 +7,7 @@
 |**Project**|**Description**|    
 |:----------|:----|
 | 📕 [Bookstore app](https://github.com/rabarbar15/books.com) | E-commerce website made with React and Express. |
-| 🛗 [Elevator control system](https://github.com/rabarbar15/elevators-system) | System controlling multiple elvators made with Java and React. |    
+| 🛗 [Elevator control system](https://github.com/rabarbar15/elevators-system) | System controlling multiple elevators made with Java and React. |    
 | 🗓️ [Items booking app](https://github.com/rabarbar15/items-booking-app) | Booking app made with Express and React Js. | 
 
 
