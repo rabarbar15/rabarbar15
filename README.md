@@ -8,7 +8,7 @@
 |:----------|:----|
 | 🗓️ [SzybkiBooking](https://github.com/rabarbar15/SzybkiBooking) | Responsive web app made with Vue js and Firebase -> [Link](https://classreservationsproduction.web.app/)  | 
 | 📕 [Bookstore app](https://github.com/rabarbar15/books.com) | E-commerce website made with React and Express. |
-| 🛗 [Elevator control system](https://github.com/rabarbar15/elevators-system) | System controlling multiple elevators made with Java and React. |    
+| 🛗 [Nest-social](https://github.com/rabarbar15/Nest-social.git) | Social media API built with NestJS, allowing users to create and interact with posts. |    
 
 
 
