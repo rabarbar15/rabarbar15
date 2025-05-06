@@ -9,7 +9,7 @@
 | 🗓️ [SzybkiBooking](https://github.com/rabarbar15/SzybkiBooking) | Responsive web app made with Vue js and Firebase -> [Link](https://classreservationsproduction.web.app/)  | 
 | 📕 [Bookstore app](https://github.com/rabarbar15/books.com) | E-commerce website made with React and Express. |
 | 🛗 [Nest-social](https://github.com/rabarbar15/Nest-social.git) | Social media backend built with NestJS, allowing users to create and interact with posts. |    
-| 💿 [VinylStore](https://github.com/rabarbar15/Nest-social.git) | Online vinyl records store backend made with NestJS. |    
+| 💿 [VinylStore](https://github.com/rabarbar15/VinylStore) | Online vinyl records store backend made with NestJS. |    
 
 
 
