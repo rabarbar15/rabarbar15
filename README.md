@@ -6,10 +6,10 @@
 ## 💻 Some of my code    
 |**Project**|**Description**|    
 |:----------|:----|
-| 🗓️ [SzybkiBooking](https://github.com/rabarbar15/SzybkiBooking) | Responsive web app made with Vue js and Firebase -> [Link](https://classreservationsproduction.web.app/)  | 
 | 🛗 [Nest-social](https://github.com/rabarbar15/Nest-social.git) | Social media backend built with NestJS, allowing users to create and interact with posts. |    
 | 💿 [VinylStore](https://github.com/rabarbar15/VinylStore) | Online vinyl records store backend made with NestJS. |    
 | 📕 [Bookstore app](https://github.com/rabarbar15/books.com) | E-commerce website made with React and Express. |
+| 🗓️ [SzybkiBooking](https://github.com/rabarbar15/SzybkiBooking) | Responsive web app made with Vue js and Firebase -> [Link](https://classreservationsproduction.web.app/)  | 
 
 
 
